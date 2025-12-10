@@ -79,6 +79,3 @@
 ## 性能建议 | Performance Tips
 - 大量文件：`--use-processes`，`--workers≈CPU 核心数`。| For large sets, use processes with workers≈CPU cores.
 - 首次快速生成可关闭抖动/优化，最终版再开启优化。| Disable for drafts, enable for final.
-
-## 许可证 | License
-- 未指定。如公开发布，建议添加 MIT。| Not specified. Consider MIT for public release.
